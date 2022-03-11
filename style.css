@@ -1,0 +1,53 @@
+/* treat this is a resume. I add cute colors because I like to have a little "me" visible in the mundane information. */
+body {
+  background-color: #fef0f5;
+}
+
+div {
+  text-align: center;
+}
+
+section {
+  padding: 70px;
+}
+
+/* A professional text and size */
+h1, h2, h3, p, li {
+  font-family: 'trebuchet ms';
+  font-height: 150%;
+}
+
+p, li {
+  font-size: 18px;
+}
+
+img {
+  border-style: solid;
+  border-color: #000000;
+}
+
+.text-sm {
+  font-size: xx-small;
+}
+
+.list-inside li {
+  list-style-position: inside;
+}
+
+.gray-background {
+  color: #912f56;
+  background-color: #dedbdb;
+  border-style: solid;
+  border-color: #000000;
+}
+
+.wrapper {
+  width: 200px;
+  margin: auto;
+}
+
+/* coordinating link colors seems more professional */
+a:link { color: #420039; }
+a:visited { color: #595457; }
+a:hover { color: #89b0ae; }
+a:active { color: #ffbd00; }
